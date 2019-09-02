@@ -10,7 +10,7 @@ Conways Game of Life program for the TI 84 Plus.
 
 # Tutorial
 
-Open LIFE on TI 84. You should be greeted with:<br>
+Open LIFE on your TI 84 by using the PRGM menu. You should be greeted with:<br>
 `BOX SIZE
 `<br>
 `V?`
